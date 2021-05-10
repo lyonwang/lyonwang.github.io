@@ -29,7 +29,7 @@ twitter_username: lyon_wang
 github_username:  lyonwang
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
