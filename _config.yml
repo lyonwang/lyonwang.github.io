@@ -21,7 +21,7 @@
 title: 涼~ㄟ部落格
 email: lyon.wang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  這是我的個人 Jekyll 部落格，紀錄工作、生活上的點點滴滴心得感想。</br>
+  這是我的個人 Jekyll 部落格，紀錄工作、生活上的點點滴滴心得感想。
   請多多指教~
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lyonwang.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
